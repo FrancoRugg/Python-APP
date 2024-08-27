@@ -1,0 +1,56 @@
+[
+    {
+        "user": "f",
+        "password": "$2b$12$PuxONtNq/F1yE4w77ECbbuNeeOpV.Y3MedenGFv1Xpc/y2RDrLNxu",
+        "accounts": [
+            {
+                "name": "ARS",
+                "value": "18458662.33"
+            },
+            {
+                "name": "USD",
+                "value": "149999999878211.29"
+            },
+            {
+                "name": "IMG",
+                "value": "246"
+            },
+            {
+                "name": "SAD",
+                "value": "0.00"
+            },
+            {
+                "name": "RES",
+                "value": "0.00"
+            },
+            {
+                "name": "ARW",
+                "value": "0.00"
+            },
+            {
+                "name": "USD",
+                "value": "0.00"
+            },
+            {
+                "name": "USD",
+                "value": "0.00"
+            },
+            {
+                "name": "YNS",
+                "value": "0.00"
+            },
+            {
+                "name": "AUD",
+                "value": "153700.00"
+            },
+            {
+                "name": "SADSAD",
+                "value": "0.00"
+            },
+            {
+                "name": "BIF",
+                "value": "42993.59"
+            }
+        ]
+    }
+]

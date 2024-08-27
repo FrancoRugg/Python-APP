@@ -1,0 +1,20 @@
+[
+    {
+        "user": "new",
+        "password": "$2b$12$BnKrNjmo6UKyghnOHmOJN.6yAsxkRPkvcU3AAXi.6yskrDYKdkjTW",
+        "accounts": [
+            {
+                "name": "ARS",
+                "value": "14899.70"
+            },
+            {
+                "name": "USD",
+                "value": "0.11"
+            },
+            {
+                "name": "BIP",
+                "value": "0.00"
+            }
+        ]
+    }
+]
